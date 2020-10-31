@@ -1,0 +1,8 @@
+D:\ASHFAQUE\COMPUTERS\softwere\C#\Custom Notepad\Custom Notepad\bin\Debug\Custom Notepad.exe
+D:\ASHFAQUE\COMPUTERS\softwere\C#\Custom Notepad\Custom Notepad\bin\Debug\Custom Notepad.pdb
+D:\ASHFAQUE\COMPUTERS\softwere\C#\Custom Notepad\Custom Notepad\obj\x86\Debug\Custom_Notepad.Properties.Resources.resources
+D:\ASHFAQUE\COMPUTERS\softwere\C#\Custom Notepad\Custom Notepad\obj\x86\Debug\Custom Notepad.csproj.GenerateResource.Cache
+D:\ASHFAQUE\COMPUTERS\softwere\C#\Custom Notepad\Custom Notepad\obj\x86\Debug\Custom Notepad.exe
+D:\ASHFAQUE\COMPUTERS\softwere\C#\Custom Notepad\Custom Notepad\obj\x86\Debug\Custom Notepad.pdb
+D:\ASHFAQUE\COMPUTERS\softwere\C#\Custom Notepad\Custom Notepad\obj\x86\Debug\Custom_Notepad.MainForm.resources
+D:\ASHFAQUE\COMPUTERS\softwere\C#\Custom Notepad\Custom Notepad\obj\x86\Debug\Custom Notepad.csprojResolveAssemblyReference.cache
